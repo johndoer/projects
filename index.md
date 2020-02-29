@@ -24,7 +24,9 @@
 	Hello World!<br>
 	This is a page made on GitHub - Sat 29 Feb 2020 15:07:18 GMT<br>
 	Play around with its HTML/CSS/JavaScripts etc.<br><br>
-	Why does the 'landing' page have to be index.md and not index.html...??
+	Why does the 'landing' page have to be index.md and not index.html...??<br><br>
+        And the javascript dosnt work..???
+	
 	
 	
 	<main>
