@@ -24,7 +24,7 @@
 	Hello World!<br>
 	This is a page made on GitHub - Sat 29 Feb 2020 15:07:18 GMT<br>
 	Play around with its HTML/CSS/JavaScripts etc.<br><br>
-	Why does the 'landing' page have to be index.md and not index.html...?? => see: <a href="https://github.com/htmlpreview/htmlpreview.github.com">GitBitBucket...</a><br><br>
+	Why does the 'landing' page have to be index.md and not index.html...?? => see: <a href="https://github.com/htmlpreview/htmlpreview.github.com">https://github.com/htmlpreview/htmlpreview.github.com</a><br><br>
         And the javascript dosnt work..???<br><br>
 	It takes a few minutes for commited edits to appear on 'preview' page
 	
