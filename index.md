@@ -19,7 +19,7 @@
 
 </head>
 <body>
-	Hello XXX123 World!
+	Hello XXX123 World! - edit made to index.md, viewable from "https://htmlpreview.github.io/?https://github.com/johndoer/projects/blob/master/index.md"
 	<main>
 	
 	</main>
