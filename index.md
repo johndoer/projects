@@ -19,7 +19,13 @@
 
 </head>
 <body>
-	Hello XXX123 World! - edit made to index.md, viewable from "https://htmlpreview.github.io/?https://github.com/johndoer/projects/blob/master/index.md"
+	Hello XXX123 World! - edit made to index.md, viewable from "https://htmlpreview.github.io/?https://github.com/johndoer/projects/blob/master/index.md"<br>
+	
+	Hello World!<br>
+	This is a page made on GitHub - Sat 29 Feb 2020 15:07:18 GMT<br>
+	Play around with its HTML/CSS/JavaScripts etc.<br>
+	
+	
 	<main>
 	
 	</main>
